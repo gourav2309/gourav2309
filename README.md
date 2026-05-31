@@ -1,7 +1,8 @@
 <div align="center">
 
-# Hey, I'm Gourav 👋
-### Full Stack Developer · Hyderabad, India
+# Hi there, I'm Gourav Singh Solanki 👋
+
+**Full Stack Developer** · Building for the web, one component at a time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-singh-solanki-63274a264/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartik-k3)
@@ -11,15 +12,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🙋‍♂️ Introduction
 
-- 🏢 **Full Stack Developer** at **ThinkHat Software Pvt Ltd** (Feb 2022 – Present)
-- 🏥 I build **healthcare tech** — EHR systems, clinical trials platforms, AI-powered medical tools
-- ⚡ Fixed a UI freeze rendering **5,000+ items** by introducing virtualization → **80%+ faster renders**
-- 🤖 Built a **Prompt-Ops microservice** used across **3+ services**, reducing AI-related downtime by **10%**
-- 🎙️ Shipped **Speech-to-Text + Speaker Identification** with Azure → **400ms** latency reduction
-- 🌐 All my projects use **FHIR-based APIs** for healthcare interoperability
-- 🎓 B.Tech in Computer Science — RGPV University (CGPA: 7.3)
+Hey! I'm Gourav, a Full Stack Developer based in **Hyderabad, India**. I love crafting clean, performant web experiences and turning complex problems into simple, elegant solutions. Whether it's a snappy UI or a well-structured backend service, I enjoy every layer of the stack.
+
+---
+
+## 💼 Professional Summary
+
+- 🚀 **3+ years** of professional experience in full stack web development
+- 🎨 Strong focus on building **responsive, accessible, and high-performance** frontend interfaces
+- 🔧 Comfortable on the backend — from REST APIs and microservices to validation and authorization
+- 🤖 Hands-on experience with **AI integrations** and prompt engineering in production
+- 🌍 Passionate about writing **clean, reusable, and scalable** code that teams enjoy working with
 
 ---
 
@@ -48,7 +53,6 @@
 
 ![Azure](https://img.shields.io/badge/Azure_Speech-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![FHIR](https://img.shields.io/badge/FHIR_APIs-E74C3C?style=flat-square)
 
 **Tools**
 
@@ -60,34 +64,51 @@
 
 ---
 
-## 🚀 What I've Shipped
+## 📊 GitHub Stats
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Noki Scribe Co-Pilot** | FHIR-based AI Co-Pilot for US practitioners with Speech-to-Text & Prompt-Ops | React, Node.js, Azure, FHIR |
-| **Samaras** | Clinical trials admin portal with AI-driven participant onboarding | React, Node.js, Redux |
-| **Enliv EHR** | Full EHR system for hospitals, clinics & individual practitioners | React, Redux, FHIR APIs |
-| **Patient Portal** | Patient-facing portal with appointments, documents & role-based access | React, Node.js, REST APIs |
-| **FormD** | AI-powered medical education simulation platform | React, Next.js |
+<div align="center">
+
+![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik-k3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-k3&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kartik-k3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📈 Highlights
+## 📚 Currently Learning
 
-```
-⚡  80%+ render time reduction   →  virtualized 5,000+ item lists
-🎙️  400ms latency cut            →  Azure Speech-to-Text integration
-🤖  10% downtime reduction       →  Prompt-Ops microservice (3+ services)
-✍️  10% faster AI generation     →  SOAP note prompting (zero-shot + contextual)
-🏥  10+ clinical modules         →  Enliv EHR platform
-```
+- 🏗️ **System Design** — scalable architectures, trade-offs, and distributed systems
+- 🧠 **Generative AI** — LLMs, embeddings, RAG pipelines, and model behaviour
+- ⚙️ **AI-Powered Applications** — building production-ready apps with AI at the core
+- 🔬 **Microservices Architecture** — service decomposition, inter-service communication, and resilience patterns
+
+---
+
+## 🎯 Areas of Interest
+
+- 🌐 Full Stack Web Development
+- 🎨 UI/UX — crafting interfaces people actually enjoy using
+- 🤖 AI integrations in real-world products
+- ⚡ Web performance optimization
+- 🔧 Backend systems and API design
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+Got an idea, a question, or just want to connect? Feel free to reach out!
+
+**[gouravsinghh1231@gmail.com](mailto:gouravsinghh1231@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/gourav-singh-solanki-63274a264/)**
+
+</div>
 
 ---
 
 <div align="center">
-
-*Open to collaborations on healthcare tech, AI integrations, and full stack projects.*
-
-📬 [gouravsinghh1231@gmail.com](mailto:gouravsinghh1231@gmail.com)
-
+  <img src="https://komarev.com/ghpvc/?username=kartik-k3&color=0A66C2&style=flat-square" alt="Profile Views" />
 </div>

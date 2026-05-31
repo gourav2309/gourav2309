@@ -64,20 +64,6 @@ Hey! I'm Gourav, a Full Stack Developer based in **Hyderabad, India**. I love cr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik-k3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-k3&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kartik-k3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 - 🏗️ **System Design** — scalable architectures, trade-offs, and distributed systems
